@@ -39,13 +39,14 @@ body {
 }
 
 .nav__link {
+  text-transform: uppercase;
   display: block;
   align-content: center;
   box-sizing: border-box;
   height: 60px;
   line-height: 60px;
   font-size: 12px;
-  padding: 0;
+  text-align: center;
   color: #000;
   text-decoration: none;
 }
